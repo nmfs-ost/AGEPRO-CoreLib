@@ -63,14 +63,14 @@ namespace Nmfs.Agepro.CoreLib.Resources {
         /// <summary>
         ///   Looks up a localized string similar to 4.25.
         /// </summary>
-        public static string AGEPRO_Version {
+        public static string AGEPRO_CalcEngine {
             get {
-                return ResourceManager.GetString("AGEPRO_Version", resourceCulture);
+                return ResourceManager.GetString("AGEPRO_CalcEngine", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 4.3.5.
+        ///   Looks up a localized string similar to 4.3.6.
         /// </summary>
         public static string GUI_Version {
             get {
