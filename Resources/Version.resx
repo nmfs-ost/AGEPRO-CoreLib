@@ -117,12 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AGEPRO_Version" xml:space="preserve">
+  <data name="AGEPRO_CalcEngine" xml:space="preserve">
     <value>4.25</value>
     <comment>AGEPRO Calcuation Engine Version</comment>
   </data>
   <data name="GUI_Version" xml:space="preserve">
-    <value>4.3.5</value>
+    <value>4.3.6</value>
+    <comment>AGEPRO-GUI Version</comment>
   </data>
   <data name="INP_AGEPRO40_VersionString" xml:space="preserve">
     <value>AGEPRO VERSION 4.0</value>
