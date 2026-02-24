@@ -70,7 +70,7 @@ namespace Nmfs.Agepro.CoreLib.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 4.3.6.
+        ///   Looks up a localized string similar to 4.3.7.
         /// </summary>
         public static string GUI_Version {
             get {

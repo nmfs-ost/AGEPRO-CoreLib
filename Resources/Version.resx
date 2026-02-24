@@ -122,7 +122,7 @@
     <comment>AGEPRO Calcuation Engine Version</comment>
   </data>
   <data name="GUI_Version" xml:space="preserve">
-    <value>4.3.6</value>
+    <value>4.3.7</value>
     <comment>AGEPRO-GUI Version</comment>
   </data>
   <data name="INP_AGEPRO40_VersionString" xml:space="preserve">
